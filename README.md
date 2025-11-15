@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Tenho 18 anos e sou natural de Barueri - SP.
+Tenho 19 anos e sou natural de Barueri - SP.
 Sou apaixonado por tecnologia desde os meus 14 anos, quando dei meus primeiros passos no mundo da programação. Concluí o Ensino Médio com técnico em Informática pela FIEB, onde tive a oportunidade de aprofundar meus conhecimentos na área.
 Durante a formação, atuei por 1 ano e 9 meses como estagiário em desenvolvimento, adquirindo experiência prática com projetos reais. Atualmente, trabalho como desenvolvedor júnior C#, em constante aprendizado e evolução no universo da tecnologia.
 <p align="left">
